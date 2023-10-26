@@ -1,0 +1,3 @@
+echo -e"Date: \t `date`";
+echo -e "Calender: \t `cal march 2022`"
+
